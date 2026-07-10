@@ -39,6 +39,9 @@ Girilen metin veya sayının tersten okunduğunda aynı olup olmadığını kont
 Mod alma (`%`) operatörünü kullanarak girilen sayının tek mi yoksa çift mi olduğunu belirler.
 
 ---
+## Diğerler çalışmalarada aynı şekilde bakabilirsiniz
+
+---
 
 # 🏗️ Proje Yapısı
 
@@ -49,7 +52,9 @@ Python_Calismalarim/
 ├── faktoriyel.py       # Faktöriyel hesaplama
 ├── palindrom.py        # Palindrom kontrolü
 ├── tek_cift.py         # Tek / Çift sayı kontrolü
+├── diğerleri vb        # ---------
 └── README.md           # Proje dokümantasyonu
+
 ```
 
 ---
